@@ -36,3 +36,31 @@ hr {
   margin: auto;
   width: 40%;
 }
+
+a:link {
+  color: white;
+  font-weight: bold;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  font-weight: bold;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  font-weight: bold;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  font-weight: bold;
+  background-color: transparent;
+  text-decoration: underline;
+}
